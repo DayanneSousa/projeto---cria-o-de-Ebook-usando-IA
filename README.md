@@ -1,6 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+<a href="https://github.com/DayanneSousa/projeto---cria-o-de-Ebook-usando-IA/blob/main/Projeto-%20cria%C3%A7%C3%A3o%20de%20ebook%20usando%20ia%20%5BTamanho%20original%5D.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
